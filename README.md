@@ -1,2 +1,0 @@
-# gieminapp
-App Gieminox
