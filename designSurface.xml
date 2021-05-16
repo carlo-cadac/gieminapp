@@ -4,7 +4,8 @@
       <map>
         <entry key="..\:/Sviluppo/Android/CYOrto/app/src/main/res/layout/fragment_piantamodifica.xml" value="1.0" />
         <entry key="..\:/Sviluppo/Android/CYOrto/app/src/main/res/layout/fragment_vanesa.xml" value="0.33" />
-        <entry key="..\:/Sviluppo/Android/CYOrto/app/src/main/res/layout/riga_semina.xml" value="0.3536458333333333" />
+        <entry key="..\:/Sviluppo/Android/CYOrto/app/src/main/res/layout/riga_orto.xml" value="0.5" />
+        <entry key="..\:/Sviluppo/Android/CYOrto/app/src/main/res/layout/riga_semina.xml" value="0.5" />
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/fragment_ricerca_fasi.xml" value="0.2006340579710145" />
       </map>
