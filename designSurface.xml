@@ -10,6 +10,9 @@
         <entry key="..\:/Sviluppo/Android/CYOrto/app/src/main/res/layout/riga_semina.xml" value="0.5" />
         <entry key="..\:/Sviluppo/Android/CYOrto/app/src/main/res/layout/riga_varieta.xml" value="0.20520833333333333" />
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout-sw600dp/fragment_terminalino.xml" value="0.33" />
+        <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout-sw600dp/row_item_comm.xml" value="0.25" />
+        <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout-sw600dp/row_item_comm_tubi.xml" value="0.25" />
+        <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout-sw600dp/row_item_rip.xml" value="0.144140625" />
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/app_bar_main.xml" value="0.1956521739130435" />
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/fragment_apri_macc.xml" value="0.33" />
@@ -17,6 +20,7 @@
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/fragment_cicli_lavoro.xml" value="0.33" />
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/fragment_login.xml" value="0.18385416666666668" />
         <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/fragment_ricerca_fasi.xml" value="0.2006340579710145" />
+        <entry key="..\:/Sviluppo/Android/GieminApp/app/src/main/res/layout/row_item_fasip.xml" value="0.1921875" />
       </map>
     </option>
   </component>
