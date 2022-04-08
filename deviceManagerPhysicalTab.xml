@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="52000faaeed5358f" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-08T09:17:42.546723500Z" />
+        <name value="samsung SM-A520F" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
