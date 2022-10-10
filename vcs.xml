@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/dinkar1708/KioskModeAndroid" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MrHassanMurtaza/android-nodejs-image-upload/tree/master/android-nodejs-upload-image/androidnodejsupload" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="e:\Sviluppo\android" />
+    <option name="cloneParentDir" value="c:\Sviluppo\android" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
