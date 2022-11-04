@@ -38,6 +38,14 @@
           <option name="url" value="https://github.com/CHNicelee/CameraDemo" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Yuloran/Camera2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/justomiguel/cwac-cam2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="e:\Sviluppo\android" />
