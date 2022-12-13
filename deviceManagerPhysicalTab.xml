@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="samsung SM-A528B" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <target value="Android API 33" />
+        <api value="33" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
